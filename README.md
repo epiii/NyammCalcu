@@ -5,12 +5,11 @@ Simple React-Native Calculator
 
 done
 - [x] redux / react-redux ✅
+- [x] change layout ✅
 
 todo
 - [ ] react-hooks (to do)  🕘
 - [ ] Landscape mode (to do) 🕘
 
-[I'm an inline-style link](https://www.google.com)
-
 # Credit
-https://github.com/deadcoder0904/react-native-redux-calculator
+[react-native-redux-calculator](https://github.com/deadcoder0904/react-native-redux-calculator)
