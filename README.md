@@ -9,6 +9,10 @@ points
 🕘 react-hooks (to do)
 🕘 Landscape mode (to do)
 
+- [x] redux / react-redux
+- [ ] react-hooks (to do)  🕘
+- [ ] Landscape mode (to do) 🕘
+
 
 # Credit
 https://github.com/deadcoder0904/react-native-redux-calculator
